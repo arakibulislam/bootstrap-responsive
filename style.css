@@ -1,0 +1,32 @@
+.hover-b{
+    border: none;
+    border-radius: 10px;
+    color: orange;
+
+}
+.hover-b:hover{
+    background-color: orange;
+    border: 0;
+    border-radius: 10px;
+}
+.nav-link button{
+    border: none;
+    border-radius: 10px;
+    color: orange;
+}
+.nav-link button:hover{
+    background: orange;
+    border-radius: 10px;
+}
+.carousel-background{
+    background: #FEEAE9;
+    border-radius: 20px;
+    margin-top: 100px;
+}
+.margin{
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+.radius{
+    border-radius: 20px;
+}
