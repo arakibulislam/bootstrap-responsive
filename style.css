@@ -30,3 +30,7 @@
 .radius{
     border-radius: 20px;
 }
+.card-footer{
+    border: none;
+    background-color: white;
+}
